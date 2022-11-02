@@ -1,4 +1,4 @@
-## FinalFashion
+# FinalFashion
 This is a joint project undertaken by a subsection of scholars of the ALX-T Fullstack Web Developer Nanodegree program.  
 
 ### Purpose
