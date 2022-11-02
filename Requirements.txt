@@ -1,0 +1,37 @@
+Requirements:
+Roles: Manager
+       Customer
+
+Clothing:
+    Men:    Shoes
+            Shirts
+           Trousers
+
+    Women: Shoes
+            Shirts
+            Trousers
+            Dresses
+
+Application:
+1. App should send emails of orders
+
+Customer:
+1. Create an account with Customer role
+2. Update Clothing in cart
+3. Delete Clothing from cart
+4. Retrieve clothing details
+
+5. Add to Cart
+6. Place order
+7. Sort items in (alphabetically)
+8. Filter by clothing category (Men/Women/Clothing type/*Shops*)
+9. Remove item from cart
+10. ** Create feedback **
+11. Add comments on items
+
+Manager:
+1. Add items to shop
+2. Delete item from shop
+3. Update items in shop
+4. Read items in shop
+5. Can see items purchased for auditing
